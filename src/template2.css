@@ -42,3 +42,28 @@ ul {
   #contact{
     background-color: green;
 }
+
+#heading{
+            
+    padding-left: 2%;
+    width:60%;
+    float:left ;
+   
+}
+#aside-head{
+    width:30%; float:left; 
+    padding-left: 2%;
+     padding-right: 6%;
+      padding-bottom: 26%;
+       background-color: rgb(212, 205, 205) ;
+}
+
+
+
+.headings-color{
+    color: rgb(68, 68, 206);
+}
+
+.para{
+    padding-right: 5%;
+}
