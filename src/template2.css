@@ -1,0 +1,44 @@
+#site{
+    background-color: rgb(190, 185, 185);
+    color: black;
+   
+    padding-top: .5%;
+    padding-left: 2%;
+    padding-bottom: .5%;
+   
+}
+
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+    border-right:1px solid #bbb;
+  }
+  
+  li:last-child {
+    border-right: none;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover:not(.active) {
+    background-color: #111;
+  }
+
+  #contact{
+    background-color: green;
+}
